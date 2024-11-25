@@ -1,5 +1,5 @@
 
-# HyperMeshColorPalette
+# HyperMeshColorPalette .
 A mapping of the colors used in HyperMesh 2017 and more.
 
 These colors were found using a tcl script called ``hm_colors_to_file.tcl`` which does exactly what the name suggests. 
